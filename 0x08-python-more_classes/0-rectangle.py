@@ -1,10 +1,12 @@
 #!/usr/bin/python3
+"""
+This is a rectangle module
+"""
 
-'''this is an empty rectangle class'''
 
 class Rectangle:
-    '''
-    this is rectangle class
-    '''
-    pass
+    """
+    This is a rectangle class
+    """
 
+    pass
